@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(82): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(83): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(242): warning C4566: character represented by universal-character-name '\u5DE6' cannot be represented in the current code page (1252)
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(242): warning C4566: character represented by universal-character-name '\u53F3' cannot be represented in the current code page (1252)
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(247): warning C4566: character represented by universal-character-name '\u4E0B' cannot be represented in the current code page (1252)
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(242): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(242): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(247): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(247): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Tetris.vcxproj -> C:\Users\Xenose\Documents\Visual Studio 2017\Projects\Tetris\x64\Debug\Tetris.exe

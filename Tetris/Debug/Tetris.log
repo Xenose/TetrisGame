@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(237): warning C4566: character represented by universal-character-name '\u5DE6' cannot be represented in the current code page (1252)
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(237): warning C4566: character represented by universal-character-name '\u53F3' cannot be represented in the current code page (1252)
+c:\users\xenose\documents\visual studio 2017\projects\tetris\tetris\source.cpp(242): warning C4566: character represented by universal-character-name '\u4E0B' cannot be represented in the current code page (1252)
+  Tetris.vcxproj -> C:\Users\Xenose\Documents\Visual Studio 2017\Projects\Tetris\Debug\Tetris.exe
